@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma API simples de gerenciamento de tarefas desenvolvida em Node.js. O principal objetivo é explorar as funcionalidades nativas do Node.js, sem o uso de bibliotecas externas, para entender melhor como construir aplicações com este ambiente de execução.
+Este projeto é uma API simples de gerenciamento de tasks desenvolvida em Node.js. O principal objetivo é explorar as funcionalidades nativas do Node.js, sem o uso de bibliotecas externas, para entender melhor como construir aplicações com este ambiente de execução.
 
 ## Funcionalidades
 
@@ -33,8 +33,8 @@ src/
 
 1. **Clone o repositório**:
    ```bash
-   git clone <url-do-repositorio>
-   cd <nome-do-repositorio>
+   git clone <https://github.com/felipe-rodolfo/api-node-no-external-libs.git>
+   cd <api-node-no-external-libs>
    ```
 
 2. **Inicie o servidor**:
